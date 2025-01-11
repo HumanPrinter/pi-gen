@@ -1,0 +1,2 @@
+TARGET_HOSTNAME=meterkast
+. config_common
