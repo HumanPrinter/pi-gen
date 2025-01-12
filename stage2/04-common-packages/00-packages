@@ -1,1 +1,1 @@
-vim apt-transport-https python3-pip
+vim apt-transport-https python3-pip dnsutils
