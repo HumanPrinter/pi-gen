@@ -1,0 +1,2 @@
+TARGET_HOSTNAME=openmediavault
+. config_common
