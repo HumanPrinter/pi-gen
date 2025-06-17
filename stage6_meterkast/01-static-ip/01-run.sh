@@ -19,12 +19,6 @@ network:
       nameservers:
         addresses:
         - 192.168.100.1
-  vlans:
-    vlan200:
-      id: 200
-      link: eth0
-      addresses:
-      - 192.168.200.252/24
 EOF
 
 chmod 600 ${ROOTFS_DIR}/etc/netplan/eth0.yaml
